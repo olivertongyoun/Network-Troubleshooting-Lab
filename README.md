@@ -13,4 +13,5 @@ The goal is to understand how to identify, isolate, and fix these common network
 
 ## 🗺️ Network Topology
 
+![Network Diagram](https://i.imgur.com/lYwhcx1.png)
 
